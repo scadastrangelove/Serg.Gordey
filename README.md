@@ -27,11 +27,13 @@
 * [Secrets of Cybersecurity](https://github.com/scadastrangelove/Serg.Gordey/blob/master/THE_SECRETS_OF_CYBERSECURITY.pdf)
 * [Cybersecurity Assessment of Communication-Based Train Control systems](https://github.com/scadastrangelove/Serg.Gordey/blob/master/Cybersecurity_Assessment_of_Communicatio.pdf)
 * [Computer-Based Interlocking Threat Model (RU)](https://github.com/scadastrangelove/Serg.Gordey/blob/master/Computer-Based%20Interlocking%20Threat%20Model.pdf)
+* [Cybersecurity of Railway Signaling (RU)](https://github.com/scadastrangelove/Serg.Gordey/blob/master/Cybersecurity%20of%20Railway%20Signaling.pdf)
 
 ### Energy, SmartGrid, Power Distribution 
 * [SCADA StrangeLove SmartGrid Releases (blog)](http://www.scada.sl/search/label/smartgrid) 
 * [Practical analysis of the cybersecurity of European smart grids](https://github.com/scadastrangelove/Serg.Gordey/blob/master/Practical_analysis_SmartGrid.pdf)
 
 ### Industrial Control System and SCADA Security 
+* [Mission-centric approach to ICS/SCADA cybersecurity](https://github.com/scadastrangelove/Serg.Gordey/blob/master/Mission%20Centric%20-%202015.pdf)
 
 ### Telecom 
